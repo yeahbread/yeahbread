@@ -1,3 +1,3 @@
-### ego aka yeahbread (clearnet ego, not the darknet hacker)
+### ego aka yeahbread 
 
 ![](https://komarev.com/ghpvc/?username=yeahbread)
